@@ -332,7 +332,7 @@ img.mfp-img {
     height: auto;
     z-index: -1;
     box-shadow: 0 0 8px rgba(0, 0, 0, .6);
-    background: $neutral-1000
+    background: var(neutral-1000);
 }
 
 .mfp-figure small {
